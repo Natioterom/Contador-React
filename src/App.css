@@ -1,0 +1,17 @@
+*{
+  padding: 0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+html,
+body{
+  background-color: rgb(238, 211, 150);
+}
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 15px;
+  font-family: sans-serif;
+}
